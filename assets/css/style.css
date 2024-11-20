@@ -20,6 +20,7 @@ html,body
     height: 100%;
     margin: 0px;
     padding: 0px;
+    scroll-behavior: smooth;
     overflow-x: hidden; 
 }
 
@@ -139,6 +140,7 @@ a:hover {
 }
 
 /*--/ Sections /--*/
+
 .sect-4 {
   padding: 4rem 0;
 }
